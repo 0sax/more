@@ -1,3 +1,3 @@
-module github.com/Lord-Ofada/more
+module github.com/0sax/more
 
 go 1.15
